@@ -17,17 +17,17 @@
 		},
 		
 		events: {
-			'click .acf-gallery-attachment': 		'_select',
-			'click .acf-gallery-add':				'_add',
-			'click .acf-gallery-remove':			'_remove',
-			'click .acf-gallery-close':				'_close',
-			'change .acf-gallery-sort':				'_sort',
-			'click .acf-gallery-edit':				'_edit',
-			'click .acf-gallery-update': 			'_update',
+			'click .acf-premium-attachment': 		'_select',
+			'click .acf-premium-add':				'_add',
+			'click .acf-premium-remove':			'_remove',
+			'click .acf-premium-close':				'_close',
+			'change .acf-premium-sort':				'_sort',
+			'click .acf-premium-edit':				'_edit',
+			'click .acf-premium-update': 			'_update',
 			
-			'change .acf-gallery-side input':		'_update',
-			'change .acf-gallery-side textarea':	'_update',
-			'change .acf-gallery-side select':		'_update'
+			'change .acf-premium-side input':		'_update',
+			'change .acf-premium-side textarea':	'_update',
+			'change .acf-premium-side select':		'_update'
 		},
 		
 		
@@ -47,10 +47,10 @@
 		focus: function(){
 			
 			// el
-			this.$el = this.$field.find('.acf-gallery:first');
-			this.$main = this.$el.children('.acf-gallery-main');
-			this.$side = this.$el.children('.acf-gallery-side');
-			this.$attachments = this.$main.children('.acf-gallery-attachments');
+			this.$el = this.$field.find('.acf-premium:first');
+			this.$main = this.$el.children('.acf-premium-main');
+			this.$side = this.$el.children('.acf-premium-side');
+			this.$attachments = this.$main.children('.acf-premium-attachments');
 			this.$input = this.$el.find('input:first');
 			
 			
@@ -88,7 +88,7 @@
 			// sortable
 			this.$attachments.unbind('sortable').sortable({
 				
-				items					: '.acf-gallery-attachment',
+				items					: '.acf-premium-attachment',
 				forceHelperSize			: true,
 				forcePlaceholderSize	: true,
 				scroll					: true,
@@ -203,8 +203,8 @@
 		render: function() {
 			
 			// vars
-			var $select = this.$main.find('.acf-gallery-sort'),
-				$a = this.$main.find('.acf-gallery-add');
+			var $select = this.$main.find('.acf-premium-sort'),
+				$a = this.$main.find('.acf-premium-add');
 			
 			
 			// disable a
@@ -253,7 +253,7 @@
 			
 			
 			// hide bulk actions
-			this.$main.find('.acf-gallery-sort').hide();
+			this.$main.find('.acf-premium-sort').hide();
 			
 			
 			// vars
@@ -266,7 +266,7 @@
 			
 			
 			// animate
-			this.$side.children('.acf-gallery-side-inner').css({ 'width' : width-1 });
+			this.$side.children('.acf-premium-side-inner').css({ 'width' : width-1 });
 			this.$side.animate({ 'width' : width-1 }, 250);
 			this.$main.animate({ 'right' : width }, 250);
 						
@@ -313,7 +313,7 @@
 			
 			
 			// vars
-			var $select = this.$el.find('.acf-gallery-sort');
+			var $select = this.$el.find('.acf-premium-sort');
 			
 			
 			// clear selection
@@ -330,7 +330,7 @@
 				
 				$select.show();
 				
-				$(this).find('.acf-gallery-side-data').html('');
+				$(this).find('.acf-premium-side-data').html('');
 				
 			});
 			
@@ -372,7 +372,7 @@
 		
 		get_attachments: function(){
 			
-			return this.$attachments.children('.acf-gallery-attachment');
+			return this.$attachments.children('.acf-premium-attachment');
 			
 		},
 		
@@ -443,7 +443,7 @@
 			
 			
 			// return
-			return this.$attachments.children( '.acf-gallery-attachment'+s );
+			return this.$attachments.children( '.acf-premium-attachment'+s );
 			
 		},
 		
@@ -602,7 +602,7 @@
 			
 			// html
 			var html = [
-			'<div class="acf-gallery-attachment" data-id="' + data.id + '">',
+			'<div class="acf-premium-attachment" data-id="' + data.id + '">',
 				'<input type="hidden" value="' + data.id + '" name="' + name + '[]">',
 				'<div class="margin" title="">',
 					'<div class="thumbnail">',
@@ -611,7 +611,7 @@
 					'<div class="filename"></div>',
 				'</div>',
 				'<div class="actions">',
-					'<a href="#" class="acf-icon -cancel dark acf-gallery-remove" data-id="' + data.id + '"></a>',
+					'<a href="#" class="acf-icon -cancel dark acf-premium-remove" data-id="' + data.id + '"></a>',
 				'</div>',
 			'</div>'].join('');
 			
@@ -853,7 +853,7 @@
 			
 			
 			// vars
-			var $side = this.$side.find('.acf-gallery-side-data');
+			var $side = this.$side.find('.acf-premium-side-data');
 			
 			
 			// render
@@ -983,9 +983,9 @@
 		_update: function(){
 			
 			// vars
-			var $submit = this.$side.find('.acf-gallery-update'),
-				$edit = this.$side.find('.acf-gallery-edit'),
-				$form = this.$side.find('.acf-gallery-side-data'),
+			var $submit = this.$side.find('.acf-premium-update'),
+				$edit = this.$side.find('.acf-premium-edit'),
+				$form = this.$side.find('.acf-premium-side-data'),
 				id = $edit.data('id'),
 				ajaxdata = acf.serialize( $form );
 			
@@ -1184,7 +1184,7 @@
 		validation_begin: function(){
 			
 			// lock all gallery forms
-			$('.acf-gallery-side-data').each(function(){
+			$('.acf-premium-side-data').each(function(){
 				
 				acf.disable_form( $(this), 'gallery' );
 				
@@ -1195,7 +1195,7 @@
 		validation_failure: function(){
 			
 			// lock all gallery forms
-			$('.acf-gallery-side-data').each(function(){
+			$('.acf-premium-side-data').each(function(){
 				
 				acf.enable_form( $(this), 'gallery' );
 				
