@@ -23,3 +23,6 @@ wp-content/plugins/hello.php
 /wp-content/themes/bds/yarn.lock
 .idea
 package-lock.json
+node_modules
+.cache-loader
+dist
