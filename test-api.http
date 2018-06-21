@@ -1,0 +1,9 @@
+###
+
+GET http://api.joind.in/v2.1
+Accept: application/json
+Content-Type: application/json
+
+< 2018-06-20T052420.200.json
+
+###
