@@ -40,10 +40,23 @@
     "oscarotero/env": "^1.1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "monolog/monolog": "^1.23",
-    "inpsyde/wonolog": "^1.0"
+    "inpsyde/wonolog": "^1.0",
+    "guzzlehttp/guzzle": "^6.3",
+    "nesbot/carbon": "^1.31",
+    "league/flysystem": "^1.0",
+    "fzaninotto/faker": "^1.7",
+    "twig/twig": "^2.4",
+    "dragonmantank/cron-expression": "^2.2",
+    "ramsey/uuid": "^3.7",
+    "swiftmailer/swiftmailer": "^6.0",
+    "symfony/var-dumper": "^4.1",
+    "tightenco/collect": "^5.6",
+    "symfony/validator": "^4.1",
+    "wpbp/cpt_columns": "dev-master"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.0.2"
+    "squizlabs/php_codesniffer": "^3.0.2",
+    "aws/aws-sdk-php": "~3.0"
   },
   "extra": {
     "installer-paths": {
