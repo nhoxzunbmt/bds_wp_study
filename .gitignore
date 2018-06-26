@@ -26,3 +26,12 @@ package-lock.json
 node_modules
 .cache-loader
 dist
+composer.lock
+
+.env
+
+
+npm-debug.log
+yarn-error.log
+vendor
+resources/assets/config-local.json
