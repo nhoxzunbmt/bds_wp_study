@@ -1,0 +1,132 @@
+#myhome-importer h2, h3 {
+    float: left;
+    width: 100%;
+}
+
+.mh-importer__start__top {
+    line-height: 1.3;
+    font-size: 21px;
+    margin: 12px 12px;
+}
+
+.mh-importer__start__bottom p {
+    margin: 24px 12px;
+}
+
+.mh-importer__start__bottom p {
+    display: block;
+    line-height: 1.3;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.mh-importer__start__bottom select {
+    margin: 0 0 12px 12px;
+
+}
+
+.mh-importer__start {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.2);
+    background: #fff;
+    border-left: 25px solid #0085ba;
+    color: #222;
+    margin: 12px 24px 24px 0;
+    padding: 12px;
+    max-width: 700px;
+    float: left;
+}
+
+.mh-importer__start:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mh-importer__php {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    border-left: 25px solid #32373c;
+    color: #222;
+    margin: 12px 24px 0 0;
+    padding: 24px 12px 0 12px;
+    max-width: 700px;
+    float: left;
+}
+
+.mh-importer__php:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mh-importer__card {
+    max-width: 300px;
+    float: left;
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    margin: 0 24px 24px 0;
+    padding: 12px;
+}
+
+.mh-importer__card img {
+    max-width: 100%;
+}
+
+.mh-importer__card-info {
+    margin-bottom: 24px;
+}
+
+.mh-importer-info .dashicons {
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+}
+
+.mh-importer-list {
+    list-style: disc;
+    margin-left: 24px;
+    margin-bottom: 24px;
+}
+
+.mh-importer-loading-wrapper {
+    width: 100%;
+    float: left;
+}
+
+.mh-importer-loading {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    padding: 24px;
+    float: left;
+}
+
+.mh-importer__loaded {
+    padding: 24px;
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    float: left;
+    margin: 24px 15px 2px;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.mh-importer__speed {
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 24px;
+}
+
+.mh-importer__speed div {
+    margin-bottom: 24px;
+}
+
+.mh-importer__speed pre {
+    margin: 24px 0;
+    background: #32373c;
+    color: #fff;
+    padding: 24px;
+    margin-left: -24px;
+}
+
+pre.mh-importer__speed__php-pre {
+    margin-left: 10px;
+}

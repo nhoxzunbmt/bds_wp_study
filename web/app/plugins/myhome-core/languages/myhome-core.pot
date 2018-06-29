@@ -1,0 +1,3803 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MyHome Core\n"
+"POT-Creation-Date: 2018-01-15 16:58+0100\n"
+"PO-Revision-Date: 2017-07-20 20:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: myhome-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/Attributes/Attribute.php:420
+#: includes/Attributes/Price_Attribute.php:212
+#: includes/Common/Translations.php:132
+msgid "Something went wrong during fields order update."
+msgstr ""
+
+#: includes/Attributes/Attribute_Factory.php:104
+#: includes/Attributes/Attributes_Settings.php:343
+msgid "Property ID"
+msgstr ""
+
+#: includes/Attributes/Attribute_Options_Page.php:45
+#: includes/Common/Translations.php:113
+msgid "Basic"
+msgstr ""
+
+#: includes/Attributes/Attribute_Options_Page.php:51
+#: includes/Common/Translations.php:53 includes/Common/Translations.php:114
+msgid "Advanced"
+msgstr ""
+
+#: includes/Attributes/Attribute_Options_Page.php:74
+#, php-format
+msgid ""
+"%1$s - view on the search form<div class=\"acf-settings-wrap__subtitle\">"
+"%2$s</div>"
+msgstr ""
+
+#: includes/Attributes/Attribute_Options_Page.php:91
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:44
+#: includes/Common/Translations.php:253 includes/Estates/Estate_Settings.php:82
+#: includes/Estates/Estate_Settings.php:339
+#: includes/Estates/Estate_Settings.php:441
+#: includes/Shortcodes/Service_Shortcode.php:72
+#: includes/Users/User_Settings.php:50
+msgid "Image"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:50
+msgid "Image wide"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:51
+msgid "Recommended size 1920x500 px"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:63
+#: includes/Estates/Estate_Settings.php:504
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:76
+#: includes/Common/Translations.php:157
+msgid "Settings"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:109
+msgid "Display after price"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:115
+msgid "Display before price"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:121
+msgid "Show label on property cards"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:128
+msgid "Label text color"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:143
+msgid "Label background color"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:158
+msgid "Add additional price field"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:166
+msgid "Add additional price field - price range \"from\" - \"to\""
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:182
+msgid "Exclude from search results"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:222
+msgid "Filters"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:242
+#: includes/Attributes/Attributes_Settings.php:243
+#: includes/Common/Translations.php:204
+msgid "MyHome Panel"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:266
+msgid "Property type"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:273
+msgid "Offer type"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:280
+msgid "City"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:287
+#: includes/Common/Translations.php:42 includes/Estates/Estate_Settings.php:86
+msgid "Price"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:294
+msgid "Keyword"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:301
+msgid "Bedrooms"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:308
+msgid "Bathrooms"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:315
+msgid "Property Size"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:322
+msgid "Lot Size"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:329
+msgid "Year"
+msgstr ""
+
+#: includes/Attributes/Attributes_Settings.php:336
+msgid "Features"
+msgstr ""
+
+#: includes/Attributes/Core_Attribute.php:47
+msgid "Core"
+msgstr ""
+
+#: includes/Attributes/Core_Attribute_Options_Page.php:24
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:35
+#: includes/Attributes/Number_Attribute_Options_Page.php:109
+#: includes/Attributes/Property_ID_Options_Page.php:24
+#: includes/Attributes/Text_Attribute_Options_Page.php:130
+#: includes/Common/Translations.php:118
+#: includes/Components/Listing/Listing.php:51
+msgid "Placeholder"
+msgstr ""
+
+#: includes/Attributes/Core_Attribute_Options_Page.php:27
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:38
+#: includes/Attributes/Number_Attribute_Options_Page.php:112
+#: includes/Attributes/Property_ID_Options_Page.php:27
+#: includes/Attributes/Text_Attribute_Options_Page.php:133
+msgid ""
+"Placeholder's name is by default a name of a field, but it can be changed "
+"below"
+msgstr ""
+
+#: includes/Attributes/Core_Attribute_Options_Page.php:31
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:42
+#: includes/Attributes/Property_ID_Options_Page.php:31
+#: includes/Attributes/Text_Attribute_Options_Page.php:123
+#: includes/Common/Translations.php:123
+msgid "Search Form - display full width"
+msgstr ""
+
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:25
+#, php-format
+msgid "Suggest %s"
+msgstr ""
+
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:48
+#: includes/Common/Translations.php:188
+msgid "Suggestions"
+msgstr ""
+
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:54
+#: includes/Common/Translations.php:210
+msgid "Suggest at start"
+msgstr ""
+
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:60
+msgid "Redirect on select"
+msgstr ""
+
+#: includes/Attributes/Keyword_Attribute_Options_Page.php:66
+#: includes/Common/Translations.php:213
+msgid "Open in new tab"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute.php:66
+#: includes/Common/Translations.php:134
+msgid "Number field"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute.php:198
+#, php-format
+msgid "%s from"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute.php:200
+#: includes/Attributes/Number_Attribute.php:207
+#: includes/Attributes/Number_Attribute.php:215
+#: includes/Attributes/Text_Attribute.php:535
+#: includes/Attributes/Text_Attribute_Options_Page.php:32
+#: includes/Common/Translations.php:109
+#: includes/Components/Listing/Listing_Map_Settings.php:338
+#: includes/Components/Listing/Listing_Settings.php:483
+msgid "Default values"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute.php:205
+#, php-format
+msgid "%s to"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:25
+#: includes/Attributes/Property_Type_Attribute_Options_Page.php:13
+#: includes/Attributes/Text_Attribute_Options_Page.php:20
+#: includes/Common/Translations.php:98
+msgid "Search form - display as:"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:29
+msgid "Input field"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:30
+#: includes/Common/Translations.php:103
+msgid "Input field based on a range ( from - to )"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:31
+msgid "Drop-down list "
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:32
+#: includes/Common/Translations.php:100
+msgid "Drop-down list based on a range ( from - to )"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:37
+#: includes/Common/Translations.php:127
+msgid "Number operator"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:43
+#: includes/Attributes/Text_Attribute_Options_Page.php:38
+#: includes/Attributes/Text_Attribute_Options_Page.php:49
+#: includes/Common/Translations.php:108
+msgid "Static values"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:46
+#: includes/Attributes/Text_Attribute_Options_Page.php:52
+#: includes/Common/Translations.php:111
+msgid "Add"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:50
+#: includes/Attributes/Text_Attribute_Options_Page.php:56
+msgid "Name (visible)"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:56
+#: includes/Attributes/Text_Attribute_Options_Page.php:62
+#: includes/Common/Translations.php:112
+#: includes/Estates/Estate_Settings.php:278
+msgid "Value"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:64
+#: includes/Attributes/Property_ID_Options_Page.php:37
+#: includes/Attributes/Text_Attribute_Options_Page.php:70
+#: includes/Common/Translations.php:116
+msgid "Display on property card"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:70
+#: includes/Attributes/Text_Attribute_Options_Page.php:76
+#: includes/Common/Translations.php:117 includes/Common/Translations.php:181
+msgid "Display on single property page"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:77
+#: includes/Attributes/Text_Attribute_Options_Page.php:149
+msgid "Show suggestion"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:84
+#: includes/Attributes/Text_Attribute_Options_Page.php:83
+#: includes/Common/Translations.php:82
+#: includes/Shortcodes/Icon_Shortcode.php:90
+#: includes/Shortcodes/Shortcodes.php:195
+#: includes/Shortcodes/Simple_Box_Shortcode.php:62
+msgid "Icon"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:91
+#: includes/Attributes/Text_Attribute_Options_Page.php:156
+#: includes/Common/Translations.php:217
+msgid "Checkbox - move checked elements to the beginning of the list"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:102
+#: includes/Common/Translations.php:205
+msgid "Unit of measure"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:104
+msgid ""
+"It will be displayed after name eg. you can use that to add (sq feet) next "
+"to lot size, but it will be not used in link so it is much more useful."
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:116
+msgid "Placeholder (default: from)"
+msgstr ""
+
+#: includes/Attributes/Number_Attribute_Options_Page.php:125
+msgid "Placeholder (default: to)"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute.php:150
+msgid "Price field"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute_Options_Page.php:25
+msgid "Define price as range"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute_Options_Page.php:32
+#: includes/Common/Translations.php:216
+msgid "Assign offer type \"display after\" to default price"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute_Options_Page.php:86
+#: includes/Components/Listing/Search_Forms/Search_Form.php:250
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:88
+#: includes/Shortcodes/Button_Shortcode.php:112
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:122
+#: includes/Shortcodes/Estate_List_Shortcode.php:129
+#: includes/Shortcodes/Heading_Shortcode.php:135
+#: includes/Shortcodes/Heading_Shortcode.php:170
+#: includes/Shortcodes/Heading_Shortcode.php:184
+#: includes/Shortcodes/Heading_Shortcode.php:209
+#: includes/Shortcodes/Icon_Shortcode.php:185
+#: includes/Shortcodes/Icon_Shortcode.php:277
+#: includes/Shortcodes/Icon_Shortcode.php:310
+#: includes/Shortcodes/List_Agent_Shortcode.php:72
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:102
+#: includes/Shortcodes/Service_Shortcode.php:90
+#: includes/Shortcodes/Simple_Box_Shortcode.php:166
+#: includes/Shortcodes/Simple_Box_Shortcode.php:190
+#: includes/Shortcodes/Simple_Box_Shortcode.php:214
+msgid "Default"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute_Options_Page.php:117
+msgid "USD"
+msgstr ""
+
+#: includes/Attributes/Price_Attribute_Options_Page.php:123
+msgid "$"
+msgstr ""
+
+#: includes/Attributes/Property_Type_Attribute_Options_Page.php:17
+#: includes/Attributes/Text_Attribute_Options_Page.php:24
+msgid "Dropdown list"
+msgstr ""
+
+#: includes/Attributes/Property_Type_Attribute_Options_Page.php:18
+#: includes/Attributes/Text_Attribute_Options_Page.php:25
+#: includes/Common/Translations.php:102
+msgid "Input Text"
+msgstr ""
+
+#: includes/Attributes/Property_Type_Attribute_Options_Page.php:19
+#: includes/Attributes/Text_Attribute_Options_Page.php:27
+#: includes/Common/Translations.php:105
+msgid "Left/right: radio button || top/bottom - drop-down list"
+msgstr ""
+
+#: includes/Attributes/Text_Area_Attribute.php:29
+#: includes/Estates/Elements/Estate_Elements_Settings.php:114
+msgid "Text area"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute.php:88
+#: includes/Common/Translations.php:133
+msgid "Text field"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute.php:525
+#: includes/Common/Translations.php:49 includes/Common/Translations.php:372
+#: includes/Components/Listing/Listing_Map_Settings.php:229
+#: includes/Components/Listing/Listing_Settings.php:294
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:109
+#: includes/Shortcodes/Estate_List_Shortcode.php:103
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:85
+msgid "Any"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:26
+#: includes/Common/Translations.php:104
+msgid "Checkbox"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:36
+#: includes/Common/Translations.php:106
+msgid "All existing values"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:37
+#: includes/Common/Translations.php:107
+msgid "Most popular"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:43
+msgid "Most popular values limit (number)"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:94
+#: includes/Common/Translations.php:121
+msgid "Use as tags"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:100
+#: includes/Attributes/Text_Attribute_Options_Page.php:108
+msgid "Display values in a separate section"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:116
+#: includes/Common/Translations.php:122
+msgid "Single property page: show as link"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:137
+#: includes/Common/Translations.php:125
+msgid "Parent attribute"
+msgstr ""
+
+#: includes/Attributes/Text_Attribute_Options_Page.php:143
+#: includes/Common/Translations.php:221
+msgid "Parent type"
+msgstr ""
+
+#: includes/Attributes/Widgets_Attribute.php:30
+#: includes/Estates/Elements/Estate_Elements_Settings.php:110
+msgid "Widgets"
+msgstr ""
+
+#: includes/Attributes/Widgets_Attribute_Options_Page.php:21
+msgid "Columns"
+msgstr ""
+
+#: includes/Attributes/Widgets_Attribute_Options_Page.php:25
+#: includes/Shortcodes/Estate_List_Shortcode.php:118
+msgid "1 column"
+msgstr ""
+
+#: includes/Attributes/Widgets_Attribute_Options_Page.php:26
+#: includes/Shortcodes/Estate_List_Shortcode.php:117
+msgid "2 columns"
+msgstr ""
+
+#: includes/Cache/Cache.php:39
+msgid "Clear cache"
+msgstr ""
+
+#: includes/Common/Breadcrumbs/Breadcrumbs.php:49
+#: includes/Estates/Estate_Settings.php:552
+#: includes/Estates/Estate_Settings.php:554
+#: includes/Estates/Estate_Settings.php:561
+msgid "Properties"
+msgstr ""
+
+#: includes/Common/Translations.php:17
+msgid "Email"
+msgstr ""
+
+#: includes/Common/Translations.php:18 includes/Users/User_Settings.php:56
+msgid "Phone"
+msgstr ""
+
+#: includes/Common/Translations.php:19
+msgid "Your message"
+msgstr ""
+
+#: includes/Common/Translations.php:20
+msgid "Send"
+msgstr ""
+
+#: includes/Common/Translations.php:21
+msgid "Message is to short (min 5 characters) "
+msgstr ""
+
+#: includes/Common/Translations.php:22
+msgid "Email address is invalid"
+msgstr ""
+
+#: includes/Common/Translations.php:23
+msgid "Error..."
+msgstr ""
+
+#: includes/Common/Translations.php:24
+msgid "Your message was sent successfully. Thanks."
+msgstr ""
+
+#: includes/Common/Translations.php:25
+msgid "Sending..."
+msgstr ""
+
+#: includes/Common/Translations.php:34
+#: includes/Components/Listing/Listing_Settings.php:530
+msgid "Alphabetical"
+msgstr ""
+
+#: includes/Common/Translations.php:35
+msgid "Compare"
+msgstr ""
+
+#: includes/Common/Translations.php:36 includes/Common/Translations.php:371
+msgid "Added"
+msgstr ""
+
+#: includes/Common/Translations.php:37
+#: includes/Estates/Elements/Estate_Elements_Settings.php:47
+#: includes/Estates/Elements/Estate_Elements_Settings.php:231
+msgid "Details"
+msgstr ""
+
+#: includes/Common/Translations.php:38
+#: includes/Shortcodes/Simple_Box_Shortcode.php:33
+msgid "More"
+msgstr ""
+
+#: includes/Common/Translations.php:39
+#: includes/Components/Listing/Listing_Settings.php:381
+#: includes/Components/Listing/Listing_Settings.php:494
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:162
+#: includes/Shortcodes/Estate_List_Shortcode.php:169
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:111
+msgid "Newest"
+msgstr ""
+
+#: includes/Common/Translations.php:40
+msgid "Sort by:"
+msgstr ""
+
+#: includes/Common/Translations.php:41
+#: includes/Components/Listing/Listing_Settings.php:384
+#: includes/Components/Listing/Listing_Settings.php:521
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:165
+#: includes/Shortcodes/Estate_List_Shortcode.php:172
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:114
+msgid "Popular"
+msgstr ""
+
+#: includes/Common/Translations.php:43
+msgid "reset"
+msgstr ""
+
+#: includes/Common/Translations.php:44
+msgid "Full Screen"
+msgstr ""
+
+#: includes/Common/Translations.php:45
+#: includes/Components/Listing/Listing_Settings.php:382
+#: includes/Components/Listing/Listing_Settings.php:503
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:163
+#: includes/Shortcodes/Estate_List_Shortcode.php:170
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:112
+msgid "Price (high to low)"
+msgstr ""
+
+#: includes/Common/Translations.php:46
+#: includes/Components/Listing/Listing_Settings.php:383
+#: includes/Components/Listing/Listing_Settings.php:512
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:164
+#: includes/Shortcodes/Estate_List_Shortcode.php:171
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:113
+msgid "Price (low to high)"
+msgstr ""
+
+#: includes/Common/Translations.php:47
+msgid "results"
+msgstr ""
+
+#: includes/Common/Translations.php:48
+msgid "Found"
+msgstr ""
+
+#: includes/Common/Translations.php:50
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:64
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:117
+msgid "Search"
+msgstr ""
+
+#: includes/Common/Translations.php:51 includes/Common/Translations.php:190
+msgid "From"
+msgstr ""
+
+#: includes/Common/Translations.php:52 includes/Common/Translations.php:189
+msgid "To"
+msgstr ""
+
+#: includes/Common/Translations.php:54 includes/Common/Translations.php:63
+#: includes/Common/Translations.php:97
+msgid "Hide"
+msgstr ""
+
+#: includes/Common/Translations.php:55
+msgid "clear"
+msgstr ""
+
+#: includes/Common/Translations.php:56
+msgid "Street View"
+msgstr ""
+
+#: includes/Common/Translations.php:57
+msgid "Prev"
+msgstr ""
+
+#: includes/Common/Translations.php:58
+msgid "Next"
+msgstr ""
+
+#: includes/Common/Translations.php:59
+msgid "Full screen"
+msgstr ""
+
+#: includes/Common/Translations.php:60
+msgid "Close full screen"
+msgstr ""
+
+#: includes/Common/Translations.php:61
+msgid "Clear search"
+msgstr ""
+
+#: includes/Common/Translations.php:62
+msgid "No results found"
+msgstr ""
+
+#: includes/Common/Translations.php:64
+msgid "Show"
+msgstr ""
+
+#: includes/Common/Translations.php:65
+#: includes/Estates/Elements/Estate_Elements_Settings.php:52
+#: includes/Estates/Elements/Estate_Elements_Settings.php:98
+#: includes/Estates/Elements/Estate_Elements_Settings.php:237
+msgid "Attributes"
+msgstr ""
+
+#: includes/Common/Translations.php:66
+msgid "Show location"
+msgstr ""
+
+#: includes/Common/Translations.php:67
+msgid "Show near"
+msgstr ""
+
+#: includes/Common/Translations.php:68 includes/Common/Translations.php:260
+msgid "Login"
+msgstr ""
+
+#: includes/Common/Translations.php:69 includes/Common/Translations.php:280
+msgid "Register"
+msgstr ""
+
+#: includes/Common/Translations.php:70 includes/Common/Translations.php:155
+#: includes/Common/Translations.php:267
+msgid "Submit property"
+msgstr ""
+
+#: includes/Common/Translations.php:71 includes/Common/Translations.php:268
+msgid "My properties"
+msgstr ""
+
+#: includes/Common/Translations.php:72 includes/Common/Translations.php:269
+msgid "Edit profile"
+msgstr ""
+
+#: includes/Common/Translations.php:73 includes/Common/Translations.php:270
+#: includes/Common/Translations.php:291
+msgid "View my profile"
+msgstr ""
+
+#: includes/Common/Translations.php:74 includes/Common/Translations.php:259
+msgid "Log out"
+msgstr ""
+
+#: includes/Common/Translations.php:75 includes/Common/Translations.php:168
+msgid "Currency"
+msgstr ""
+
+#: includes/Common/Translations.php:81
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: includes/Common/Translations.php:83
+msgid ""
+"It will be displayed on the property cards and single property page instead "
+"of text label"
+msgstr ""
+
+#: includes/Common/Translations.php:84
+msgid "Start typing or click here"
+msgstr ""
+
+#: includes/Common/Translations.php:85 includes/Common/Translations.php:90
+#: includes/Common/Translations.php:257
+msgid "Edit"
+msgstr ""
+
+#: includes/Common/Translations.php:86
+msgid "Edit search form"
+msgstr ""
+
+#: includes/Common/Translations.php:87 includes/Common/Translations.php:289
+msgid "Delete"
+msgstr ""
+
+#: includes/Common/Translations.php:88 includes/Common/Translations.php:264
+#: includes/Estates/Estate_Settings.php:272
+#: includes/Estates/Estate_Settings.php:333
+#: includes/Estates/Estate_Settings.php:409
+msgid "Name"
+msgstr ""
+
+#: includes/Common/Translations.php:89
+#: includes/Components/Listing/Listing_Settings.php:400
+msgid "Type"
+msgstr ""
+
+#: includes/Common/Translations.php:91
+msgid "Slug"
+msgstr ""
+
+#: includes/Common/Translations.php:92
+msgid "required"
+msgstr ""
+
+#: includes/Common/Translations.php:93
+msgid "- separate with commas"
+msgstr ""
+
+#: includes/Common/Translations.php:94 includes/Common/Translations.php:300
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:99
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:109
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:119
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:129
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:139
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:149
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:159
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:104
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:86
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:97
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:201
+#: includes/Shortcodes/List_Agent_Shortcode.php:83
+#: includes/Shortcodes/List_Agent_Shortcode.php:93
+#: includes/Shortcodes/List_Agent_Shortcode.php:103
+#: includes/Shortcodes/List_Agent_Shortcode.php:113
+#: includes/Shortcodes/List_Agent_Shortcode.php:123
+#: includes/Shortcodes/List_Agent_Shortcode.php:133
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:115
+#: includes/Shortcodes/Service_Shortcode.php:102
+#: includes/Shortcodes/Simple_Box_Shortcode.php:238
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:103
+msgid "Yes"
+msgstr ""
+
+#: includes/Common/Translations.php:95 includes/Common/Translations.php:301
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:100
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:110
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:120
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:130
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:140
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:150
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:160
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:105
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:87
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:96
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:202
+#: includes/Shortcodes/List_Agent_Shortcode.php:84
+#: includes/Shortcodes/List_Agent_Shortcode.php:94
+#: includes/Shortcodes/List_Agent_Shortcode.php:104
+#: includes/Shortcodes/List_Agent_Shortcode.php:114
+#: includes/Shortcodes/List_Agent_Shortcode.php:124
+#: includes/Shortcodes/List_Agent_Shortcode.php:134
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:116
+#: includes/Shortcodes/Service_Shortcode.php:103
+#: includes/Shortcodes/Simple_Box_Shortcode.php:239
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:104
+msgid "No"
+msgstr ""
+
+#: includes/Common/Translations.php:96
+msgid "Save"
+msgstr ""
+
+#: includes/Common/Translations.php:99
+msgid "Drop-down list"
+msgstr ""
+
+#: includes/Common/Translations.php:101
+msgid "Drop-down list - multiple select"
+msgstr ""
+
+#: includes/Common/Translations.php:110
+msgid "Most popular limit"
+msgstr ""
+
+#: includes/Common/Translations.php:115
+msgid "Show suggestions"
+msgstr ""
+
+#: includes/Common/Translations.php:119
+msgid "Placeholder from"
+msgstr ""
+
+#: includes/Common/Translations.php:120
+msgid "Placeholder to"
+msgstr ""
+
+#: includes/Common/Translations.php:124
+msgid "Single property page: display in a separate section"
+msgstr ""
+
+#: includes/Common/Translations.php:126
+msgid "No parent attribute"
+msgstr ""
+
+#: includes/Common/Translations.php:128
+msgid "Success"
+msgstr ""
+
+#: includes/Common/Translations.php:129 includes/Common/Translations.php:331
+msgid "Error"
+msgstr ""
+
+#: includes/Common/Translations.php:130 includes/Common/Translations.php:335
+msgid "Saving changes"
+msgstr ""
+
+#: includes/Common/Translations.php:131 includes/Common/Translations.php:358
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/Common/Translations.php:135
+msgid "Widgets field"
+msgstr ""
+
+#: includes/Common/Translations.php:136
+msgid "Text area field"
+msgstr ""
+
+#: includes/Common/Translations.php:137
+msgid "Create field"
+msgstr ""
+
+#: includes/Common/Translations.php:138
+msgid "Field name"
+msgstr ""
+
+#: includes/Common/Translations.php:139 includes/Common/Translations.php:207
+msgid "Field type"
+msgstr ""
+
+#: includes/Common/Translations.php:140
+msgid "Search form attributes"
+msgstr ""
+
+#: includes/Common/Translations.php:141
+msgid "Additional attributes"
+msgstr ""
+
+#: includes/Common/Translations.php:142
+msgid "Required (for frontend panel)"
+msgstr ""
+
+#: includes/Common/Translations.php:143
+#: includes/Shortcodes/Service_Shortcode.php:79
+msgid "Link"
+msgstr ""
+
+#: includes/Common/Translations.php:144
+msgid "Create"
+msgstr ""
+
+#: includes/Common/Translations.php:145
+msgid "Create new search form"
+msgstr ""
+
+#: includes/Common/Translations.php:146 includes/Common/Translations.php:150
+msgid "Search form name"
+msgstr ""
+
+#: includes/Common/Translations.php:147
+msgid "Can't be empty"
+msgstr ""
+
+#: includes/Common/Translations.php:148
+msgid "Choose search form to edit"
+msgstr ""
+
+#: includes/Common/Translations.php:149
+msgid ""
+"Here you can create own searchform order setting if you don't want to use "
+"global order."
+msgstr ""
+
+#: includes/Common/Translations.php:151
+msgid "Available"
+msgstr ""
+
+#: includes/Common/Translations.php:152
+msgid "Available fields"
+msgstr ""
+
+#: includes/Common/Translations.php:153
+msgid "Deleting search form"
+msgstr ""
+
+#: includes/Common/Translations.php:154
+#: includes/Components/Listing/Listing_Map_Settings.php:238
+#: includes/Components/Listing/Listing_Settings.php:316
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:105
+msgid "Search form"
+msgstr ""
+
+#: includes/Common/Translations.php:156
+#: includes/Components/Listing/Listing_Map_Settings.php:255
+#: includes/Components/Listing/Listing_Settings.php:309
+msgid "Hidden"
+msgstr ""
+
+#: includes/Common/Translations.php:158
+msgid "Close"
+msgstr ""
+
+#: includes/Common/Translations.php:159
+msgid "Instructions"
+msgstr ""
+
+#: includes/Common/Translations.php:160
+msgid "Width"
+msgstr ""
+
+#: includes/Common/Translations.php:161
+msgid "allow multiple values"
+msgstr ""
+
+#: includes/Common/Translations.php:162
+msgid "Default location"
+msgstr ""
+
+#: includes/Common/Translations.php:163
+msgid "Single property page"
+msgstr ""
+
+#: includes/Common/Translations.php:164
+msgid "Search form horizontal full width"
+msgstr ""
+
+#: includes/Common/Translations.php:165
+msgid "Basic settings"
+msgstr ""
+
+#: includes/Common/Translations.php:166
+msgid "Hide price globally"
+msgstr ""
+
+#: includes/Common/Translations.php:167
+msgid "Text displayed when price is not set"
+msgstr ""
+
+#: includes/Common/Translations.php:169
+msgid "Currency sign"
+msgstr ""
+
+#: includes/Common/Translations.php:170
+msgid "Currency sign location"
+msgstr ""
+
+#: includes/Common/Translations.php:171
+msgid "Before price"
+msgstr ""
+
+#: includes/Common/Translations.php:172
+msgid "After price"
+msgstr ""
+
+#: includes/Common/Translations.php:173
+msgid "Thousands separator"
+msgstr ""
+
+#: includes/Common/Translations.php:174
+msgid "Decimal separator"
+msgstr ""
+
+#: includes/Common/Translations.php:175
+msgid "Decimal"
+msgstr ""
+
+#: includes/Common/Translations.php:176
+msgid "Sets the number of decimal points"
+msgstr ""
+
+#: includes/Common/Translations.php:177
+msgid "Add new currency"
+msgstr ""
+
+#: includes/Common/Translations.php:178
+msgid ""
+"A \"slug\" is the piece of the URL. Please do not use special characters e."
+"g. . = \"  etc."
+msgstr ""
+
+#: includes/Common/Translations.php:179
+msgid "Parent Field"
+msgstr ""
+
+#: includes/Common/Translations.php:180
+msgid ""
+"It works only on frontend search form. Can be used to create field "
+"dependency e.g. when change city display different Neighbourhood. In this "
+"case \"City\" is parent"
+msgstr ""
+
+#: includes/Common/Translations.php:182
+msgid "Display as a link on single property page"
+msgstr ""
+
+#: includes/Common/Translations.php:183
+msgid "Display on the property cards"
+msgstr ""
+
+#: includes/Common/Translations.php:184
+msgid "e.g. search form or carousels"
+msgstr ""
+
+#: includes/Common/Translations.php:185
+msgid ""
+"Field will be displayed in the same way as WordPress Post Tags in the right "
+"column on the backend property edition"
+msgstr ""
+
+#: includes/Common/Translations.php:186
+msgid "Search form field type"
+msgstr ""
+
+#: includes/Common/Translations.php:187
+msgid ""
+"Placeholder is displayed in the search form field before the user enters a "
+"value"
+msgstr ""
+
+#: includes/Common/Translations.php:191
+msgid "Create new field"
+msgstr ""
+
+#: includes/Common/Translations.php:192
+msgid "Order"
+msgstr ""
+
+#: includes/Common/Translations.php:193 includes/Common/Translations.php:374
+msgid "Remove"
+msgstr ""
+
+#: includes/Common/Translations.php:194
+msgid "Create new agent field"
+msgstr ""
+
+#: includes/Common/Translations.php:195
+msgid "Agent fields"
+msgstr ""
+
+#: includes/Common/Translations.php:196
+msgid "Saving search form"
+msgstr ""
+
+#: includes/Common/Translations.php:197 includes/Common/Translations.php:360
+msgid "Cancel"
+msgstr ""
+
+#: includes/Common/Translations.php:198
+msgid "Property fields"
+msgstr ""
+
+#: includes/Common/Translations.php:199
+msgid "Create new property field"
+msgstr ""
+
+#: includes/Common/Translations.php:200
+#: includes/Components/Listing/Listing_Map_Settings.php:245
+#: includes/Components/Listing/Listing_Map_Settings.php:258
+#: includes/Components/Listing/Listing_Map_Settings.php:265
+#: includes/Components/Listing/Listing_Map_Settings.php:281
+#: includes/Components/Listing/Listing_Map_Settings.php:297
+#: includes/Components/Listing/Listing_Map_Settings.php:305
+#: includes/Components/Listing/Listing_Map_Settings.php:318
+#: includes/Components/Listing/Listing_Map_Settings.php:331
+#: includes/Components/Listing/Listing_Settings.php:312
+#: includes/Components/Listing/Listing_Settings.php:323
+#: includes/Components/Listing/Listing_Settings.php:331
+#: includes/Components/Listing/Listing_Settings.php:343
+#: includes/Components/Listing/Listing_Settings.php:352
+#: includes/Components/Listing/Listing_Settings.php:360
+#: includes/Components/Listing/Listing_Settings.php:373
+#: includes/Components/Listing/Listing_Settings.php:376
+#: includes/Components/Listing/Listing_Settings.php:396
+#: includes/Components/Listing/Listing_Settings.php:407
+#: includes/Components/Listing/Listing_Settings.php:416
+#: includes/Components/Listing/Listing_Settings.php:428
+#: includes/Components/Listing/Listing_Settings.php:440
+#: includes/Components/Listing/Listing_Settings.php:453
+#: includes/Components/Listing/Listing_Settings.php:462
+#: includes/Components/Listing/Listing_Settings.php:471
+#: includes/Components/Listing/Listing_Settings.php:479
+#: includes/Estates/Estate_Settings.php:130
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:68
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:73
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:89
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:99
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:111
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:117
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:130
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:139
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:148
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:157
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:173
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:182
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:196
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:208
+#: includes/Shortcodes/Estate_List_Shortcode.php:111
+#: includes/Shortcodes/Estate_List_Shortcode.php:124
+#: includes/Shortcodes/Estate_List_Shortcode.php:137
+#: includes/Shortcodes/Estate_List_Shortcode.php:146
+#: includes/Shortcodes/Estate_List_Shortcode.php:155
+#: includes/Shortcodes/Estate_List_Shortcode.php:164
+#: includes/Shortcodes/Estate_List_Shortcode.php:181
+#: includes/Shortcodes/Icon_Shortcode.php:88
+#: includes/Shortcodes/Icon_Shortcode.php:160
+#: includes/Shortcodes/Icon_Shortcode.php:168
+#: includes/Shortcodes/Icon_Shortcode.php:180
+#: includes/Shortcodes/Icon_Shortcode.php:192
+#: includes/Shortcodes/Mosaic_Shortcode.php:53
+#: includes/Shortcodes/Mosaic_Shortcode.php:62
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:63
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:79
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:88
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:97
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:110
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:122
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:108
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:116
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:124
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:93
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:106
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:120
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:129
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:138
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:147
+#: includes/Shortcodes/Slider_Shortcode.php:63
+msgid "General"
+msgstr ""
+
+#: includes/Common/Translations.php:201
+msgid "Property Page"
+msgstr ""
+
+#: includes/Common/Translations.php:202
+#: includes/Components/Listing/Listing_Map_Settings.php:340
+#: includes/Components/Listing/Listing_Settings.php:485
+#: includes/Estates/Estate_Settings.php:85
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:175
+#: includes/Shortcodes/Estate_List_Shortcode.php:183
+#: includes/Users/User_Settings.php:98 includes/Users/User_Settings.php:123
+msgid "Agent"
+msgstr ""
+
+#: includes/Common/Translations.php:203
+msgid "Custom search forms"
+msgstr ""
+
+#: includes/Common/Translations.php:206
+msgid "Text input"
+msgstr ""
+
+#: includes/Common/Translations.php:208
+msgid ""
+"This option can be useful for sizes to add ft2 or m2. Please leave empty in "
+"other cases."
+msgstr ""
+
+#: includes/Common/Translations.php:209
+msgid "Enable suggestions"
+msgstr ""
+
+#: includes/Common/Translations.php:211
+msgid "Nothing"
+msgstr ""
+
+#: includes/Common/Translations.php:212
+msgid "Redirect when selected"
+msgstr ""
+
+#: includes/Common/Translations.php:214
+msgid "Suggest attributes"
+msgstr ""
+
+#: includes/Common/Translations.php:215
+msgid "Use main price field as a range (from - to)"
+msgstr ""
+
+#: includes/Common/Translations.php:218
+msgid "Click here to read how to configure static vales"
+msgstr ""
+
+#: includes/Common/Translations.php:219
+msgid "Relationships based on already added properties"
+msgstr ""
+
+#: includes/Common/Translations.php:220
+msgid "Relationships based on manual choice"
+msgstr ""
+
+#: includes/Common/Translations.php:222
+msgid "Click here to read how it works"
+msgstr ""
+
+#: includes/Common/Translations.php:239
+#: includes/Estates/Elements/Estate_Elements_Settings.php:78
+#: includes/Estates/Elements/Estate_Elements_Settings.php:207
+#: includes/Estates/Estate_Settings.php:375 includes/Panel/Panel_Fields.php:242
+msgid "Virtual tour"
+msgstr ""
+
+#: includes/Common/Translations.php:240
+#: includes/Estates/Estate_Settings.php:381
+msgid "Add embed code"
+msgstr ""
+
+#: includes/Common/Translations.php:241
+msgid "Remove file"
+msgstr ""
+
+#: includes/Common/Translations.php:242
+msgid "Upload profile picture"
+msgstr ""
+
+#: includes/Common/Translations.php:243
+msgid "Drop plan image here or click to upload"
+msgstr ""
+
+#: includes/Common/Translations.php:244
+msgid "Drop image here or click to upload"
+msgstr ""
+
+#: includes/Common/Translations.php:245
+msgid "Drop all images here or click to upload"
+msgstr ""
+
+#: includes/Common/Translations.php:246
+msgid "Cancel upload"
+msgstr ""
+
+#: includes/Common/Translations.php:247
+msgid "Are you sure you want to cancel this upload?"
+msgstr ""
+
+#: includes/Common/Translations.php:248
+msgid "Image upload failed"
+msgstr ""
+
+#: includes/Common/Translations.php:249
+msgid "You can't upload files of this type."
+msgstr ""
+
+#: includes/Common/Translations.php:250
+msgid "Pay with credit card"
+msgstr ""
+
+#: includes/Common/Translations.php:251
+msgid "Pay with PayPal"
+msgstr ""
+
+#: includes/Common/Translations.php:252
+msgid "Thank you for registering. You can log in now."
+msgstr ""
+
+#: includes/Common/Translations.php:254 includes/Panel/Panel_Fields.php:123
+#: includes/Shortcodes/Service_Shortcode.php:59
+#: includes/Shortcodes/Simple_Box_Shortcode.php:134
+msgid "Title"
+msgstr ""
+
+#: includes/Common/Translations.php:255
+msgid "Status"
+msgstr ""
+
+#: includes/Common/Translations.php:256
+msgid "Payment"
+msgstr ""
+
+#: includes/Common/Translations.php:258
+msgid "Log in"
+msgstr ""
+
+#: includes/Common/Translations.php:261
+msgid "password"
+msgstr ""
+
+#: includes/Common/Translations.php:262
+msgid "user name"
+msgstr ""
+
+#: includes/Common/Translations.php:263
+msgid "email"
+msgstr ""
+
+#: includes/Common/Translations.php:265
+msgid "Public name"
+msgstr ""
+
+#: includes/Common/Translations.php:266
+msgid "Welcome"
+msgstr ""
+
+#: includes/Common/Translations.php:271
+msgid "Phone number"
+msgstr ""
+
+#: includes/Common/Translations.php:272
+msgid "Profile picture"
+msgstr ""
+
+#: includes/Common/Translations.php:273
+msgid "Add image"
+msgstr ""
+
+#: includes/Common/Translations.php:274
+msgid "Set image"
+msgstr ""
+
+#: includes/Common/Translations.php:275
+msgid "Facebook profile link"
+msgstr ""
+
+#: includes/Common/Translations.php:276
+msgid "Twitter profile link"
+msgstr ""
+
+#: includes/Common/Translations.php:277
+msgid "Instagram profile link"
+msgstr ""
+
+#: includes/Common/Translations.php:278
+msgid "Linkedin profile link"
+msgstr ""
+
+#: includes/Common/Translations.php:279
+msgid "Update profile"
+msgstr ""
+
+#: includes/Common/Translations.php:281
+msgid "email address"
+msgstr ""
+
+#: includes/Common/Translations.php:282
+msgid "Edit property"
+msgstr ""
+
+#: includes/Common/Translations.php:283
+msgid "Update property"
+msgstr ""
+
+#: includes/Common/Translations.php:284
+#: includes/Estates/Elements/Estate_Elements_Settings.php:70
+#: includes/Panel/Panel_Fields.php:133
+msgid "Description"
+msgstr ""
+
+#: includes/Common/Translations.php:285 includes/Panel/Panel_Fields.php:153
+msgid "Featured image"
+msgstr ""
+
+#: includes/Common/Translations.php:286
+msgid "All images"
+msgstr ""
+
+#: includes/Common/Translations.php:287
+#: includes/Estates/Elements/Estate_Elements_Settings.php:82
+#: includes/Estates/Elements/Estate_Elements_Settings.php:213
+#: includes/Estates/Estate_Settings.php:320
+#: includes/Estates/Estate_Settings.php:326 includes/Panel/Panel_Fields.php:248
+msgid "Plans"
+msgstr ""
+
+#: includes/Common/Translations.php:288
+#: includes/Estates/Estate_Settings.php:329
+msgid "Add plan"
+msgstr ""
+
+#: includes/Common/Translations.php:290
+msgid "Address"
+msgstr ""
+
+#: includes/Common/Translations.php:292
+msgid "reset password"
+msgstr ""
+
+#: includes/Common/Translations.php:293
+msgid "Reset password"
+msgstr ""
+
+#: includes/Common/Translations.php:294
+msgid "Back to login form"
+msgstr ""
+
+#: includes/Common/Translations.php:295
+msgid "remember me"
+msgstr ""
+
+#: includes/Common/Translations.php:296
+msgid "Empty field"
+msgstr ""
+
+#: includes/Common/Translations.php:297
+msgid "You haven’t added any property yet"
+msgstr ""
+
+#: includes/Common/Translations.php:298
+msgid "No properties found"
+msgstr ""
+
+#: includes/Common/Translations.php:299
+msgid ""
+"Video Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr ""
+
+#: includes/Common/Translations.php:302
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: includes/Common/Translations.php:303
+msgid "Username ( cannot be changed )"
+msgstr ""
+
+#: includes/Common/Translations.php:304
+msgid "Profile updated"
+msgstr ""
+
+#: includes/Common/Translations.php:305
+msgid "Unknown error"
+msgstr ""
+
+#: includes/Common/Translations.php:306
+msgid "You are logged in"
+msgstr ""
+
+#: includes/Common/Translations.php:307
+msgid "You are logged out"
+msgstr ""
+
+#: includes/Common/Translations.php:308
+msgid "Select or upload"
+msgstr ""
+
+#: includes/Common/Translations.php:309
+msgid "Use this media"
+msgstr ""
+
+#: includes/Common/Translations.php:310
+msgid "Use commas to separate"
+msgstr ""
+
+#: includes/Common/Translations.php:311
+msgid "This property is waiting for approval."
+msgstr ""
+
+#: includes/Common/Translations.php:312
+msgid "Make a payment"
+msgstr ""
+
+#: includes/Common/Translations.php:313
+msgid "payed"
+msgstr ""
+
+#: includes/Common/Translations.php:314
+msgid "pay"
+msgstr ""
+
+#: includes/Common/Translations.php:315
+msgid "Thank you for submitting your property information."
+msgstr ""
+
+#: includes/Common/Translations.php:316 includes/Users/Users_Ajax.php:544
+msgid ""
+"Thank you for submitting your property information. Your property is waiting "
+"for approval."
+msgstr ""
+
+#: includes/Common/Translations.php:317
+msgid ""
+"If you edit your property, it won't be visible to the public until it is "
+"approved again."
+msgstr ""
+
+#: includes/Common/Translations.php:318
+msgid "Awaiting payment"
+msgstr ""
+
+#: includes/Common/Translations.php:319
+msgid "Publish"
+msgstr ""
+
+#: includes/Common/Translations.php:320
+msgid "Pending"
+msgstr ""
+
+#: includes/Common/Translations.php:321
+msgid "Draft"
+msgstr ""
+
+#: includes/Common/Translations.php:322
+msgid "Private"
+msgstr ""
+
+#: includes/Common/Translations.php:323
+msgid "Trash"
+msgstr ""
+
+#: includes/Common/Translations.php:324
+msgid "Set map marker without changing address field"
+msgstr ""
+
+#: includes/Common/Translations.php:325
+msgid "Field must be a valid email"
+msgstr ""
+
+#: includes/Common/Translations.php:326
+msgid "Field is required."
+msgstr ""
+
+#: includes/Common/Translations.php:327
+msgid "Field may only contain numeric characters."
+msgstr ""
+
+#: includes/Common/Translations.php:328
+msgid "Change password"
+msgstr ""
+
+#: includes/Common/Translations.php:329
+msgid "Old password"
+msgstr ""
+
+#: includes/Common/Translations.php:330
+msgid "New password"
+msgstr ""
+
+#: includes/Common/Translations.php:332
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/Common/Translations.php:333
+msgid "Uploading image"
+msgstr ""
+
+#: includes/Common/Translations.php:334 includes/Common/Translations.php:366
+msgid "Image uploaded"
+msgstr ""
+
+#: includes/Common/Translations.php:336
+msgid "Changes saved"
+msgstr ""
+
+#: includes/Common/Translations.php:337
+msgid "Password changed"
+msgstr ""
+
+#: includes/Common/Translations.php:338
+msgid "Password changes"
+msgstr ""
+
+#: includes/Common/Translations.php:339
+msgid "Login in progress..."
+msgstr ""
+
+#: includes/Common/Translations.php:340
+msgid "Logout in progress..."
+msgstr ""
+
+#: includes/Common/Translations.php:341
+msgid "E-mail sent"
+msgstr ""
+
+#: includes/Common/Translations.php:342
+msgid "If your email exists..."
+msgstr ""
+
+#: includes/Common/Translations.php:343
+msgid "Provided email is invalid"
+msgstr ""
+
+#: includes/Common/Translations.php:344
+msgid "Provide email to change password"
+msgstr ""
+
+#: includes/Common/Translations.php:345
+msgid "Submit"
+msgstr ""
+
+#: includes/Common/Translations.php:346
+msgid "Registering in progress..."
+msgstr ""
+
+#: includes/Common/Translations.php:347
+msgid "Password required"
+msgstr ""
+
+#: includes/Common/Translations.php:348
+msgid "This field is required"
+msgstr ""
+
+#: includes/Common/Translations.php:349
+msgid "E-mail required"
+msgstr ""
+
+#: includes/Common/Translations.php:350
+msgid "Login required"
+msgstr ""
+
+#: includes/Common/Translations.php:351
+msgid "Please fill required fields"
+msgstr ""
+
+#: includes/Common/Translations.php:352
+msgid "Min 4 chars"
+msgstr ""
+
+#: includes/Common/Translations.php:353
+msgid "Thank you for registering"
+msgstr ""
+
+#: includes/Common/Translations.php:354
+msgid "You can now log in to your account"
+msgstr ""
+
+#: includes/Common/Translations.php:355
+msgid "Check your email for confirmation link."
+msgstr ""
+
+#: includes/Common/Translations.php:356
+msgid "Loading property"
+msgstr ""
+
+#: includes/Common/Translations.php:357
+msgid "Loading video"
+msgstr ""
+
+#: includes/Common/Translations.php:359
+msgid "Yes, delete it!"
+msgstr ""
+
+#: includes/Common/Translations.php:361
+msgid "Property deleted"
+msgstr ""
+
+#: includes/Common/Translations.php:362
+msgid "Saving property"
+msgstr ""
+
+#: includes/Common/Translations.php:363
+msgid "Loading new form"
+msgstr ""
+
+#: includes/Common/Translations.php:364
+msgid "You are now logged out"
+msgstr ""
+
+#: includes/Common/Translations.php:365
+msgid "Payment processing"
+msgstr ""
+
+#: includes/Common/Translations.php:367
+msgid "OK"
+msgstr ""
+
+#: includes/Common/Translations.php:368
+msgid "Loaded"
+msgstr ""
+
+#: includes/Common/Translations.php:369
+msgid "ID"
+msgstr ""
+
+#: includes/Common/Translations.php:370
+msgid "Action"
+msgstr ""
+
+#: includes/Common/Translations.php:373
+#: includes/Components/Listing/Listing_Settings.php:378
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:159
+#: includes/Shortcodes/Estate_List_Shortcode.php:166
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:108
+msgid "Sort by"
+msgstr ""
+
+#: includes/Common/Translations.php:375
+msgid "Name (ASC)"
+msgstr ""
+
+#: includes/Common/Translations.php:376
+msgid "Name (DESC)"
+msgstr ""
+
+#: includes/Common/Translations.php:377
+msgid "Pay with Stripe Checkout"
+msgstr ""
+
+#: includes/Common/Translations.php:378
+msgid "Activation link sent"
+msgstr ""
+
+#: includes/Common/Translations.php:379
+msgid "Sending activation link"
+msgstr ""
+
+#: includes/Common/Translations.php:380
+msgid "Resend activation link"
+msgstr ""
+
+#: includes/Common/Translations.php:381
+msgid ""
+"Thank you for authenticating your registration, your account is now active"
+msgstr ""
+
+#: includes/Common/Translations.php:382
+msgid "This activation link is expired or have already been used."
+msgstr ""
+
+#: includes/Components/Contact_Form/Contact_Form_Single_Property.php:75
+#, php-format
+msgid "Contact %s - %s"
+msgstr ""
+
+#: includes/Components/Contact_Form/Contact_Form_Single_Property.php:80
+#, php-format
+msgid "From: %s<br>Phone: %s<br>Message: %s<br>Property: %s"
+msgstr ""
+
+#: includes/Components/Listing/Listing.php:52
+msgid ""
+"To add or modify elements in this area, please use the \"Backend Editor\""
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:250
+#: includes/Components/Listing/Listing_Settings.php:303
+msgid "Search form position"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:253
+msgid "Bottom"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:254
+#: includes/Components/Listing/Listing_Settings.php:306
+msgid "Top"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:262
+msgid "Wide search form"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:278
+#: includes/Components/Listing/Listing_Settings.php:328
+msgid "Label"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:290
+msgid "Map height"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:293
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:79
+msgid "Standard"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:294
+msgid "Tall"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:301
+#: includes/Components/Listing/Listing_Settings.php:356
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:313
+#: includes/Components/Listing/Listing_Settings.php:448
+msgid "Display \"advanced\" button"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:326
+#: includes/Components/Listing/Listing_Settings.php:457
+msgid "Display \"clear\" button"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:351
+#, php-format
+msgid "Show %s"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Map_Settings.php:353
+#: includes/Components/Listing/Listing_Settings.php:543
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:134
+msgid "Show filters"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:307
+#: includes/Shortcodes/Button_Shortcode.php:126
+#: includes/Shortcodes/Heading_Shortcode.php:112
+#: includes/Shortcodes/Icon_Shortcode.php:175
+msgid "Right"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:308
+#: includes/Shortcodes/Button_Shortcode.php:124
+#: includes/Shortcodes/Heading_Shortcode.php:111
+#: includes/Shortcodes/Icon_Shortcode.php:173
+msgid "Left"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:339
+msgid "Featured only"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:347
+msgid "Display number of results (e.g. 40 Found)"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:364
+msgid "Default view"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:365
+msgid ""
+"If you use \"left\" or \"right\" search form sidebar, max 2 columns are "
+"available"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:368
+msgid "Three columns"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:369
+msgid "Two columns"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:370
+msgid "Row"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:385
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:166
+#: includes/Shortcodes/Estate_List_Shortcode.php:173
+msgid "Alphabetical order"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:386
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:167
+msgid "Reverse alphabetical order"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:392
+msgid "Estates limit (number)"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:403
+msgid "Progressive loading"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:404
+msgid "Pagination"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:411
+msgid "Lazy loading"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:424
+msgid "Number of times estates will be loaded after clicking “Load More”"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:436
+msgid "\"Load More\" button label"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:438
+msgid "Load more"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:466
+msgid "Display \"sort by\""
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:475
+msgid "Display \"view types\""
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:492
+#: includes/Components/Listing/Listing_Settings.php:501
+#: includes/Components/Listing/Listing_Settings.php:510
+#: includes/Components/Listing/Listing_Settings.php:519
+#: includes/Components/Listing/Listing_Settings.php:528
+msgid "Show Sort by"
+msgstr ""
+
+#: includes/Components/Listing/Listing_Settings.php:541
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:132
+#, php-format
+msgid "Show % s"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:74
+#: includes/Estates/Elements/Estate_Elements_Settings.php:201
+#: includes/Estates/Estate_Settings.php:354 includes/Panel/Panel_Fields.php:236
+msgid "Video"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:86
+#: includes/Estates/Elements/Estate_Elements_Settings.php:219
+#: includes/Estates/Estate_Settings.php:396 includes/Panel/Panel_Fields.php:254
+msgid "Attachments"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:90
+#: includes/Estates/Elements/Estate_Elements_Settings.php:225
+msgid "Related properties"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:94
+#: includes/Estates/Elements/Estate_Elements_Settings.php:284
+msgid "Map"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:102
+#: includes/Estates/Estate_Settings.php:450
+#: includes/Shortcodes/Button_Shortcode.php:85
+msgid "Text"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:106
+#: includes/Estates/Elements/Estate_Elements_Settings.php:151
+#: includes/Estates/Elements/Estate_Elements_Settings.php:189
+#: includes/Estates/Elements/Estate_Elements_Settings.php:263
+#: includes/Panel/Panel_Fields.php:143
+msgid "Gallery"
+msgstr ""
+
+#: includes/Estates/Elements/Estate_Elements_Settings.php:243
+msgid "Additional info"
+msgstr ""
+
+#: includes/Estates/Estate.php:206
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:141 includes/Panel/Panel_Fields.php:173
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:150
+#: includes/Shortcodes/Estate_List_Shortcode.php:157
+msgid "Featured"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:176
+#: includes/Estates/Estate_Settings.php:210 includes/Panel/Panel_Fields.php:53
+#: includes/Panel/Panel_Fields.php:89 includes/Panel/Panel_Fields.php:357
+msgid "from"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:178
+#: includes/Estates/Estate_Settings.php:212 includes/Panel/Panel_Fields.php:55
+#: includes/Panel/Panel_Fields.php:91 includes/Panel/Panel_Fields.php:359
+msgid "to"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:263
+msgid "Additional features"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:289
+#: includes/Estates/Estate_Settings.php:294 includes/Panel/Panel_Fields.php:163
+msgid "Location"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:360
+msgid ""
+"Video link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:402
+#: includes/Estates/Estate_Settings.php:405
+msgid "Add attachment"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:415
+msgid "File"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:428
+msgid "Sidebar elements"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:434
+#: includes/Estates/Estate_Settings.php:437
+msgid "Add element"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:456
+msgid "Link (optional)"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:467
+msgid "Property details"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:502
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:503
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:505
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:506
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:507
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:508
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:509
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:553
+msgid "Property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:555
+#: includes/Estates/Estate_Settings.php:556
+#: includes/Estates/Estate_Settings.php:557
+msgid "Add New Property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:558
+msgid "New Property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:559
+msgid "Edit Property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:560
+msgid "View Property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:562
+msgid "Search property"
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:563
+msgid "No Property Found found."
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:564
+msgid "No Property found in Trash."
+msgstr ""
+
+#: includes/Estates/Estate_Settings.php:592
+msgid "Property Attributes"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:138
+#, php-format
+msgid "Price from (%s)"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:139
+#, php-format
+msgid "Price to (%s)"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:141
+#, php-format
+msgid "Price (%s)"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:157
+#, php-format
+msgid "Price from (%s) - %s"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:158
+#, php-format
+msgid "Price to (%s) - %s"
+msgstr ""
+
+#: includes/Estates/Prices/Currency.php:160
+#, php-format
+msgid "Price (%s) - %s"
+msgstr ""
+
+#: includes/Integrations/ESSB/ESSB_Init.php:27
+msgid "Properties archive "
+msgstr ""
+
+#: includes/Integrations/ESSB/ESSB_Init.php:28
+msgid "Property page"
+msgstr ""
+
+#: includes/Integrations/ESSB/ESSB_Init.php:46
+#: includes/Integrations/ESSB/ESSB_Init.php:58
+msgid "Properties archive"
+msgstr ""
+
+#: includes/Integrations/ESSB/ESSB_Init.php:47
+#: includes/Integrations/ESSB/ESSB_Init.php:59
+msgid "Single property"
+msgstr ""
+
+#: includes/Integrations/Yoast/Yoast_Init.php:35
+msgid ""
+"<strong>To make Yoast SEO fully compatible with MyHome, you need to take one "
+"little action</strong>\n"
+"\t\t\t\t\t\t<br> Please go to Yoast Settings. Left /wp-admin/ Sidebar >> SEO "
+">> Features and change Readability analysis to \"Disabled\". Scroll down and "
+"click the \"Save\" button.\n"
+"\t\t\t\t\t\t<br> You can read more about it <a href=\"https://myhometheme."
+"zendesk.com/hc/en-us/articles/115002007653\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:33
+#: includes/Panel/Panel_Notifications.php:35
+#, php-format
+msgid "New user has been registered: %s"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:47
+#, php-format
+msgid "New property has been added: %s"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:49
+#, php-format
+msgid "New property has been added: %s<br>"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:50
+#: includes/Panel/Panel_Notifications.php:65
+#: includes/Panel/Panel_Notifications.php:80
+#, php-format
+msgid "By: %s<br>"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:62
+#, php-format
+msgid "Moderation - new property has been added:  %s"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:64
+#, php-format
+msgid "New property has been added and require moderation: %s<br>"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:77
+#, php-format
+msgid "Property has been updated: %s"
+msgstr ""
+
+#: includes/Panel/Panel_Notifications.php:79
+#, php-format
+msgid "Property has been updated: %s<br>"
+msgstr ""
+
+#: includes/Post_Types.php:29
+msgid "Testimonial author"
+msgstr ""
+
+#: includes/Post_Types.php:33
+msgid "Author occupation"
+msgstr ""
+
+#: includes/Post_Types.php:54 includes/Post_Types.php:82
+msgid "Client"
+msgstr ""
+
+#: includes/Post_Types.php:58
+msgid "Client link"
+msgstr ""
+
+#: includes/Post_Types.php:81 includes/Post_Types.php:83
+#: includes/Post_Types.php:90
+msgid "Clients"
+msgstr ""
+
+#: includes/Post_Types.php:84
+msgid "Add new Client"
+msgstr ""
+
+#: includes/Post_Types.php:85 includes/Post_Types.php:86
+msgid "Add New Client"
+msgstr ""
+
+#: includes/Post_Types.php:87
+msgid "New Client"
+msgstr ""
+
+#: includes/Post_Types.php:88
+msgid "Edit Client"
+msgstr ""
+
+#: includes/Post_Types.php:89
+msgid "View Client"
+msgstr ""
+
+#: includes/Post_Types.php:91
+msgid "Search Clients"
+msgstr ""
+
+#: includes/Post_Types.php:92
+msgid "No Clients found."
+msgstr ""
+
+#: includes/Post_Types.php:93
+msgid "No Clients found in Trash."
+msgstr ""
+
+#: includes/Post_Types.php:112 includes/Post_Types.php:114
+#: includes/Post_Types.php:121
+msgid "Testimonials"
+msgstr ""
+
+#: includes/Post_Types.php:113
+msgid "Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:115
+msgid "Add new Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:116 includes/Post_Types.php:117
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:118
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:119
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:120
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/Post_Types.php:122
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/Post_Types.php:123
+msgid "No Testimonials found."
+msgstr ""
+
+#: includes/Post_Types.php:124
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:57
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:184
+#: includes/Shortcodes/Estate_List_Shortcode.php:113
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:56
+msgid "Visible"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:60
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:78
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:65
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:187
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:68
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:59
+msgid "Default - 3"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:61
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:79
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:66
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:188
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:69
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:60
+msgid "1 "
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:62
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:80
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:67
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:189
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:70
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:61
+msgid "2 "
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:63
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:81
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:68
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:190
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:71
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:62
+msgid "3 "
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:64
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:82
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:69
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:72
+msgid "4 "
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:70
+#: includes/Shortcodes/List_Agent_Shortcode.php:54
+msgid "Agents limit"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:77
+#: includes/Shortcodes/List_Agent_Shortcode.php:61
+msgid "Exclude admins"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:85
+#: includes/Shortcodes/Button_Shortcode.php:94
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:119
+#: includes/Shortcodes/Estate_List_Shortcode.php:126
+#: includes/Shortcodes/List_Agent_Shortcode.php:69
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:99
+#: includes/Shortcodes/Simple_Box_Shortcode.php:146
+#: includes/Shortcodes/Simple_Box_Shortcode.php:148
+#: includes/Shortcodes/Simple_Box_Shortcode.php:161
+#: includes/Shortcodes/Simple_Box_Shortcode.php:173
+#: includes/Shortcodes/Simple_Box_Shortcode.php:185
+#: includes/Shortcodes/Simple_Box_Shortcode.php:197
+#: includes/Shortcodes/Simple_Box_Shortcode.php:209
+#: includes/Shortcodes/Simple_Box_Shortcode.php:221
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:76
+msgid "Style"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:89
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:123
+#: includes/Shortcodes/Estate_List_Shortcode.php:130
+#: includes/Shortcodes/List_Agent_Shortcode.php:73
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:103
+#: includes/Shortcodes/Service_Shortcode.php:91
+msgid "White Background"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:90
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:124
+#: includes/Shortcodes/Estate_List_Shortcode.php:131
+#: includes/Shortcodes/List_Agent_Shortcode.php:74
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:104
+#: includes/Shortcodes/Service_Shortcode.php:92
+msgid "Dark Background"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:96
+#: includes/Shortcodes/List_Agent_Shortcode.php:80
+msgid "Show description"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:106
+#: includes/Shortcodes/List_Agent_Shortcode.php:90
+msgid "Show additional fields"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:116
+#: includes/Shortcodes/List_Agent_Shortcode.php:100
+msgid "Show social icons"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:126
+#: includes/Shortcodes/List_Agent_Shortcode.php:110
+msgid "Show Email"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:136
+#: includes/Shortcodes/List_Agent_Shortcode.php:120
+msgid "Show phone"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:146
+#: includes/Shortcodes/List_Agent_Shortcode.php:130
+msgid "Show button"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:156
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:101
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:198
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:112
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:100
+msgid "Dots"
+msgstr ""
+
+#: includes/Shortcodes/Agent_Carousel_Shortcode.php:166
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:113
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:103
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:210
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:124
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:111
+msgid "Auto play"
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:64
+#: includes/Shortcodes/Mosaic_Shortcode.php:55
+msgid "Attribute"
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:65
+#: includes/Shortcodes/Mosaic_Shortcode.php:56
+msgid ""
+"It shows options with at least one property assigned e.g. it will not show "
+"Washington if it has not at least one property assigned"
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:75
+msgid "Visible number"
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:83
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:70
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:73
+msgid "5 "
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:91
+#: includes/Shortcodes/Mosaic_Shortcode.php:64
+msgid "Total elements number"
+msgstr ""
+
+#: includes/Shortcodes/Attribute_Carousel_Shortcode.php:94
+#: includes/Shortcodes/Mosaic_Shortcode.php:67
+msgid "0 or empty = all elements"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:23
+#: includes/Shortcodes/Button_Shortcode.php:87
+#: includes/Shortcodes/Service_Shortcode.php:27
+#: includes/Shortcodes/Service_Shortcode.php:127
+msgid "Read More"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:55
+msgid "Page link"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:71
+msgid "Set page"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:72
+msgid "Blog"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:83
+#: includes/Shortcodes/Button_Shortcode.php:92
+#: includes/Shortcodes/Button_Shortcode.php:107
+#: includes/Shortcodes/Button_Shortcode.php:119
+#: includes/Shortcodes/Button_Shortcode.php:131
+#: includes/Shortcodes/Button_Shortcode.php:139
+#: includes/Shortcodes/Service_Shortcode.php:97
+#: includes/Shortcodes/Service_Shortcode.php:109
+#: includes/Shortcodes/Service_Shortcode.php:123
+#: includes/Shortcodes/Shortcodes.php:85
+#: includes/Shortcodes/Simple_Box_Shortcode.php:233
+#: includes/Shortcodes/Simple_Box_Shortcode.php:244
+#: includes/Shortcodes/Simple_Box_Shortcode.php:258
+#: includes/Shortcodes/Simple_Box_Shortcode.php:278
+msgid "Button"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:97
+#: includes/Shortcodes/Heading_Shortcode.php:172
+#: includes/Shortcodes/Heading_Shortcode.php:211
+#: includes/Shortcodes/Icon_Shortcode.php:186
+#: includes/Shortcodes/Icon_Shortcode.php:278
+#: includes/Shortcodes/Icon_Shortcode.php:311
+#: includes/Shortcodes/Service_Shortcode.php:114
+#: includes/Shortcodes/Simple_Box_Shortcode.php:167
+#: includes/Shortcodes/Simple_Box_Shortcode.php:191
+#: includes/Shortcodes/Simple_Box_Shortcode.php:215
+#: includes/Shortcodes/Simple_Box_Shortcode.php:263
+msgid "Primary"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:98
+#: includes/Shortcodes/Service_Shortcode.php:115
+#: includes/Shortcodes/Simple_Box_Shortcode.php:264
+msgid "Primary ghost"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:99
+#: includes/Shortcodes/Service_Shortcode.php:116
+#: includes/Shortcodes/Simple_Box_Shortcode.php:265
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:100
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:81
+msgid "Transparent"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:100
+#: includes/Shortcodes/Heading_Shortcode.php:171
+#: includes/Shortcodes/Heading_Shortcode.php:210
+#: includes/Shortcodes/Service_Shortcode.php:117
+#: includes/Shortcodes/Simple_Box_Shortcode.php:266
+msgid "White"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:101
+#: includes/Shortcodes/Service_Shortcode.php:118
+#: includes/Shortcodes/Simple_Box_Shortcode.php:267
+#: includes/Shortcodes/Slider_Shortcode.php:108
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:92
+msgid "Dark"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:109
+#: includes/Shortcodes/Heading_Shortcode.php:131
+msgid "Size"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:113
+msgid "Big"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:121
+#: includes/Shortcodes/Heading_Shortcode.php:106
+#: includes/Shortcodes/Icon_Shortcode.php:170
+msgid "Align"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:125
+#: includes/Shortcodes/Heading_Shortcode.php:110
+#: includes/Shortcodes/Icon_Shortcode.php:174
+msgid "Center"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:141
+msgid "or Link"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:144
+#: includes/Shortcodes/Service_Shortcode.php:82
+#: includes/Shortcodes/Simple_Box_Shortcode.php:283
+msgid "eg. http://xxxxxxx.xxx"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:150
+#: includes/Shortcodes/Heading_Shortcode.php:239
+#: includes/Shortcodes/Icon_Shortcode.php:339
+#: includes/Shortcodes/Service_Shortcode.php:133
+msgid "Css"
+msgstr ""
+
+#: includes/Shortcodes/Button_Shortcode.php:152
+#: includes/Shortcodes/Heading_Shortcode.php:241
+#: includes/Shortcodes/Icon_Shortcode.php:341
+#: includes/Shortcodes/Service_Shortcode.php:135
+msgid "Design options"
+msgstr ""
+
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:62
+msgid "Number of visible clients"
+msgstr ""
+
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:76
+msgid "Total number of clients to display"
+msgstr ""
+
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:83
+msgid "Display navigation dots"
+msgstr ""
+
+#: includes/Shortcodes/Client_Carousel_Shortcode.php:93
+msgid "Image Hover Effect - Grayscale"
+msgstr ""
+
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:132
+#: includes/Shortcodes/Estate_List_Shortcode.php:139
+msgid "Properties IDs"
+msgstr ""
+
+#: includes/Shortcodes/Estate_Carousel_Shortcode.php:141
+#: includes/Shortcodes/Estate_List_Shortcode.php:148
+msgid "Properties limit"
+msgstr ""
+
+#: includes/Shortcodes/Estate_List_Shortcode.php:116
+msgid "3 columns"
+msgstr ""
+
+#: includes/Shortcodes/Estate_List_Shortcode.php:174
+msgid "Revers alphabetical order"
+msgstr ""
+
+#: includes/Shortcodes/Estate_List_Shortcode.php:175
+msgid "Random"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:74
+#: includes/Shortcodes/Heading_Shortcode.php:83
+#: includes/Shortcodes/Heading_Shortcode.php:91
+#: includes/Shortcodes/Heading_Shortcode.php:104
+#: includes/Shortcodes/Heading_Shortcode.php:117
+#: includes/Shortcodes/Heading_Shortcode.php:129
+#: includes/Shortcodes/Heading_Shortcode.php:148
+#: includes/Shortcodes/Heading_Shortcode.php:164
+#: includes/Shortcodes/Heading_Shortcode.php:178
+#: includes/Shortcodes/Heading_Shortcode.php:190
+#: includes/Shortcodes/Heading_Shortcode.php:203
+#: includes/Shortcodes/Heading_Shortcode.php:217
+#: includes/Shortcodes/Heading_Shortcode.php:230
+#: includes/Shortcodes/Shortcodes.php:95
+msgid "Heading"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:76
+msgid "Heading text"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:85
+msgid "Subheading text"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:93
+msgid "Heading style"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:97
+msgid "Bottom Separator"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:98
+msgid "Top Separator"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:99
+msgid "No separator"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:119
+msgid "Font Weight"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:123
+msgid "Bold"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:124
+msgid "Thin"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:136
+msgid "XXXL"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:137
+msgid "XXL"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:138
+msgid "XL"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:139
+msgid "L"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:140
+msgid "M"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:141
+msgid "S"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:142
+msgid "XS"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:143
+msgid "XXS"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:150
+msgid "Tag"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:154
+#: includes/Shortcodes/Heading_Shortcode.php:156
+msgid "H2"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:155
+msgid "H1"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:157
+msgid "H3"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:158
+msgid "H4"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:159
+msgid "H5"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:166
+msgid "Heading color"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:173
+#: includes/Shortcodes/Heading_Shortcode.php:212
+#: includes/Shortcodes/Icon_Shortcode.php:187
+#: includes/Shortcodes/Icon_Shortcode.php:279
+#: includes/Shortcodes/Icon_Shortcode.php:312
+#: includes/Shortcodes/Simple_Box_Shortcode.php:168
+#: includes/Shortcodes/Simple_Box_Shortcode.php:192
+#: includes/Shortcodes/Simple_Box_Shortcode.php:216
+msgid "Other"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:180
+msgid "Font family"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:185
+msgid "Font body"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:192
+msgid "Heading color other"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:205
+msgid "Subheading color"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:219
+msgid "Subheading color other"
+msgstr ""
+
+#: includes/Shortcodes/Heading_Shortcode.php:232
+msgid "Heading Background"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:93
+#: includes/Shortcodes/Icon_Shortcode.php:115
+#: includes/Shortcodes/Simple_Box_Shortcode.php:65
+#: includes/Shortcodes/Simple_Box_Shortcode.php:87
+msgid "home"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:94
+#: includes/Shortcodes/Simple_Box_Shortcode.php:66
+msgid "air conditioner"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:95
+#: includes/Shortcodes/Simple_Box_Shortcode.php:67
+msgid "apartment"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:96
+#: includes/Shortcodes/Simple_Box_Shortcode.php:68
+msgid "area"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:97
+#: includes/Shortcodes/Simple_Box_Shortcode.php:69
+msgid "bath"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:98
+#: includes/Shortcodes/Simple_Box_Shortcode.php:70
+msgid "bath 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:99
+#: includes/Shortcodes/Simple_Box_Shortcode.php:71
+msgid "bathtub"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:100
+#: includes/Shortcodes/Simple_Box_Shortcode.php:72
+msgid "bed"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:101
+#: includes/Shortcodes/Simple_Box_Shortcode.php:73
+msgid "bulb"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:102
+#: includes/Shortcodes/Simple_Box_Shortcode.php:74
+msgid "city"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:103
+#: includes/Shortcodes/Simple_Box_Shortcode.php:75
+msgid "city 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:104
+#: includes/Shortcodes/Simple_Box_Shortcode.php:76
+msgid "computer"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:105
+#: includes/Shortcodes/Simple_Box_Shortcode.php:77
+msgid "construction"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:106
+#: includes/Shortcodes/Simple_Box_Shortcode.php:78
+msgid "construction 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:107
+#: includes/Shortcodes/Simple_Box_Shortcode.php:79
+msgid "date"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:108
+#: includes/Shortcodes/Simple_Box_Shortcode.php:80
+msgid "dishwasher"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:109
+#: includes/Shortcodes/Simple_Box_Shortcode.php:81
+msgid "door"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:110
+#: includes/Shortcodes/Simple_Box_Shortcode.php:82
+msgid "fence"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:111
+#: includes/Shortcodes/Simple_Box_Shortcode.php:83
+msgid "fireplace"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:112
+#: includes/Shortcodes/Simple_Box_Shortcode.php:84
+msgid "full size"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:113
+#: includes/Shortcodes/Simple_Box_Shortcode.php:85
+msgid "furniture"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:114
+#: includes/Shortcodes/Simple_Box_Shortcode.php:86
+msgid "garage"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:116
+#: includes/Shortcodes/Simple_Box_Shortcode.php:88
+msgid "home 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:117
+#: includes/Shortcodes/Simple_Box_Shortcode.php:89
+msgid "home 3"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:118
+#: includes/Shortcodes/Simple_Box_Shortcode.php:90
+msgid "home 4"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:119
+#: includes/Shortcodes/Simple_Box_Shortcode.php:91
+msgid "home 5"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:120
+#: includes/Shortcodes/Simple_Box_Shortcode.php:92
+msgid "home 6"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:121
+#: includes/Shortcodes/Simple_Box_Shortcode.php:93
+msgid "plan"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:122
+#: includes/Shortcodes/Simple_Box_Shortcode.php:94
+msgid "plan 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:123
+#: includes/Shortcodes/Simple_Box_Shortcode.php:95
+msgid "interface"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:124
+#: includes/Shortcodes/Simple_Box_Shortcode.php:96
+msgid "layers"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:125
+#: includes/Shortcodes/Simple_Box_Shortcode.php:97
+msgid "lift"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:126
+#: includes/Shortcodes/Simple_Box_Shortcode.php:98
+msgid "location"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:127
+#: includes/Shortcodes/Simple_Box_Shortcode.php:99
+msgid "location 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:128
+#: includes/Shortcodes/Simple_Box_Shortcode.php:100
+msgid "mail"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:129
+#: includes/Shortcodes/Simple_Box_Shortcode.php:101
+msgid "mail 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:130
+#: includes/Shortcodes/Simple_Box_Shortcode.php:102
+msgid "map"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:131
+#: includes/Shortcodes/Simple_Box_Shortcode.php:103
+msgid "medical"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:132
+#: includes/Shortcodes/Simple_Box_Shortcode.php:104
+msgid "microwave"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:133
+#: includes/Shortcodes/Simple_Box_Shortcode.php:105
+msgid "multimedia"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:134
+#: includes/Shortcodes/Simple_Box_Shortcode.php:106
+msgid "office"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:135
+#: includes/Shortcodes/Simple_Box_Shortcode.php:107
+msgid "office 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:136
+#: includes/Shortcodes/Simple_Box_Shortcode.php:108
+msgid "owen"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:137
+#: includes/Shortcodes/Simple_Box_Shortcode.php:109
+msgid "parquet"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:138
+#: includes/Shortcodes/Simple_Box_Shortcode.php:110
+msgid "phone"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:139
+#: includes/Shortcodes/Simple_Box_Shortcode.php:111
+msgid "pin"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:140
+#: includes/Shortcodes/Simple_Box_Shortcode.php:112
+msgid "prize"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:141
+#: includes/Shortcodes/Simple_Box_Shortcode.php:113
+msgid "rent"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:142
+#: includes/Shortcodes/Simple_Box_Shortcode.php:114
+msgid "roof"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:143
+#: includes/Shortcodes/Simple_Box_Shortcode.php:115
+msgid "school"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:144
+#: includes/Shortcodes/Simple_Box_Shortcode.php:116
+msgid "school 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:145
+#: includes/Shortcodes/Simple_Box_Shortcode.php:117
+msgid "shower"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:146
+#: includes/Shortcodes/Simple_Box_Shortcode.php:118
+msgid "sofa"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:147
+#: includes/Shortcodes/Simple_Box_Shortcode.php:119
+msgid "sofa 2"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:148
+#: includes/Shortcodes/Simple_Box_Shortcode.php:120
+msgid "sold"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:149
+#: includes/Shortcodes/Simple_Box_Shortcode.php:121
+msgid "stairs"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:150
+#: includes/Shortcodes/Simple_Box_Shortcode.php:122
+msgid "swimming pool"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:151
+#: includes/Shortcodes/Simple_Box_Shortcode.php:123
+msgid "technology"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:152
+#: includes/Shortcodes/Simple_Box_Shortcode.php:124
+msgid "transport"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:153
+#: includes/Shortcodes/Simple_Box_Shortcode.php:125
+msgid "wall"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:154
+#: includes/Shortcodes/Simple_Box_Shortcode.php:126
+msgid "wardrobe"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:155
+#: includes/Shortcodes/Simple_Box_Shortcode.php:127
+msgid "wifi"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:156
+#: includes/Shortcodes/Simple_Box_Shortcode.php:128
+msgid "window"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:162
+msgid "Icon size (font size)"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:182
+msgid "Color"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:194
+msgid "Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:204
+#: includes/Shortcodes/Icon_Shortcode.php:206
+#: includes/Shortcodes/Icon_Shortcode.php:216
+#: includes/Shortcodes/Icon_Shortcode.php:233
+#: includes/Shortcodes/Icon_Shortcode.php:250
+#: includes/Shortcodes/Icon_Shortcode.php:272
+#: includes/Shortcodes/Icon_Shortcode.php:293
+#: includes/Shortcodes/Icon_Shortcode.php:305
+#: includes/Shortcodes/Icon_Shortcode.php:326
+msgid "Shape"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:209
+msgid "None"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:210
+msgid "Shape round"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:211
+msgid "Shape rounded rectangle"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:212
+msgid "Shape square"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:218
+msgid "Padding"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:235
+msgid "Border Width"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:252
+msgid "Border Style"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:255
+msgid "Solid"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:256
+msgid "Dotted"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:257
+msgid "Dashed"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:258
+msgid "Double"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:274
+msgid "Border Color"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:295
+msgid "Border Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:307
+msgid "Background Color"
+msgstr ""
+
+#: includes/Shortcodes/Icon_Shortcode.php:328
+msgid "Background Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:25
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:92
+msgid "Read more"
+msgstr ""
+
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:65
+msgid "Max Visible"
+msgstr ""
+
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:81
+msgid "Posts limit"
+msgstr ""
+
+#: includes/Shortcodes/Post_Carousel_Shortcode.php:90
+msgid "Read more text"
+msgstr ""
+
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:113
+msgid "Search button text"
+msgstr ""
+
+#: includes/Shortcodes/Search_Form_Submit_Shortcode.php:121
+msgid "Choose page where clicking \"Search\" button redirect visitors"
+msgstr ""
+
+#: includes/Shortcodes/Service_Shortcode.php:65
+#: includes/Shortcodes/Simple_Box_Shortcode.php:140
+msgid "Content"
+msgstr ""
+
+#: includes/Shortcodes/Service_Shortcode.php:87
+msgid "Background color"
+msgstr ""
+
+#: includes/Shortcodes/Service_Shortcode.php:99
+#: includes/Shortcodes/Simple_Box_Shortcode.php:235
+#: includes/Widgets/Infobox_Widget.php:138
+msgid "Display button"
+msgstr ""
+
+#: includes/Shortcodes/Service_Shortcode.php:111
+#: includes/Shortcodes/Simple_Box_Shortcode.php:260
+msgid "Button style"
+msgstr ""
+
+#: includes/Shortcodes/Service_Shortcode.php:125
+#: includes/Shortcodes/Simple_Box_Shortcode.php:246
+msgid "Button text"
+msgstr ""
+
+#: includes/Shortcodes/Shortcode.php:122
+msgid "MyHome"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:65
+msgid "Search Form - Property Listings"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:75
+msgid "Map - Property Listings"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:105
+msgid "Agent Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:115
+msgid "Service Box"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:125
+msgid "Property Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:135
+msgid "Property List"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:145
+msgid "Attribute Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:155
+msgid "Client Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:165
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:175
+msgid "Post Carousel"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:185
+msgid "Simple Box"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:205
+#: includes/Shortcodes/Slider_Shortcode.php:65
+msgid "Slider"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:217
+msgid "Properties Slider"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:229
+msgid "Attribute Mosaic"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:239
+msgid "Agent list"
+msgstr ""
+
+#: includes/Shortcodes/Shortcodes.php:249
+msgid "Classic Search Form"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:151
+msgid "Icon Left"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:152
+msgid "Icon Center"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:153
+msgid "Icon Right"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:154
+msgid "Big Icon Left"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:155
+msgid "Big Icon Center"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:156
+msgid "Big Icon Right"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:163
+msgid "Icon Color"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:175
+msgid "Icon Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:187
+msgid "Title Color"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:199
+msgid "Title Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:211
+msgid "Text Color"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:223
+msgid "Text Color Other"
+msgstr ""
+
+#: includes/Shortcodes/Simple_Box_Shortcode.php:280
+msgid "Button link"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:95
+msgid "Slider Style"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:98
+msgid "Card"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:99
+msgid "Card short"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:122
+msgid "Estates limit"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:131
+msgid "Narrow estates to single agent"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:140
+msgid "Narrow estates to featured only"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Estate_Shortcode.php:149
+msgid "Narrow estates to IDs:"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:55
+msgid "Select slider"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:72
+#: includes/Shortcodes/Slider_Shortcode.php:88
+#: includes/Shortcodes/Slider_Shortcode.php:100
+#: includes/Shortcodes/Slider_Shortcode.php:113
+#: includes/Shortcodes/Slider_Shortcode.php:121
+msgid "Search Form with \"Submit\" Button Settings"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:74
+msgid "Search Form Style"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:77
+msgid "75% - 25%"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:78
+msgid "85% - 15%"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:79
+msgid "40% - 20% - 20% - 20%"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:80
+msgid "20% - 60% - 20%"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:81
+#, php-format
+msgid "25% x 4"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:82
+#, php-format
+msgid "25% x 8"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:83
+msgid "60% - 20% - 20%"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:90
+msgid "Search Form Size"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:93
+msgid "medium"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:94
+msgid "big"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:95
+msgid "full"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:102
+msgid "Search Form background"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:105
+msgid "White mask"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:106
+msgid "Dark mask "
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:107
+msgid "White "
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:115
+msgid "Search Form Middle Offset"
+msgstr ""
+
+#: includes/Shortcodes/Slider_Shortcode.php:123
+msgid "Search Form Middle Offset Mobile (<778px)"
+msgstr ""
+
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:69
+msgid "Limit"
+msgstr ""
+
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:80
+msgid "Cloud text"
+msgstr ""
+
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:82
+msgid "Boxed"
+msgstr ""
+
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:89
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/Shortcodes/Testimonial_Carousel_Shortcode.php:93
+msgid "Light"
+msgstr ""
+
+#: includes/Users/Agents_Manager.php:105
+msgid "Welcome to MyHome"
+msgstr ""
+
+#: includes/Users/Agents_Manager.php:116
+msgid "Last step - click link"
+msgstr ""
+
+#: includes/Users/Agents_Manager.php:163
+msgid "Welcome mail - title"
+msgstr ""
+
+#: includes/Users/Agents_Manager.php:174
+msgid "Welcome mail - message"
+msgstr ""
+
+#: includes/Users/User_Settings.php:62
+msgid "Facebook"
+msgstr ""
+
+#: includes/Users/User_Settings.php:68
+msgid "Twitter"
+msgstr ""
+
+#: includes/Users/User_Settings.php:74
+msgid "Instagram"
+msgstr ""
+
+#: includes/Users/User_Settings.php:80
+msgid "Linkedin"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:108 includes/Users/Users_Ajax.php:128
+#: includes/Users/Users_Ajax.php:146 includes/Users/Users_Ajax.php:166
+#: includes/Users/Users_Ajax.php:251
+msgid "Authentication failed"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:109
+msgid "Some data are missing!"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:129 includes/Users/Users_Ajax.php:167
+msgid "Wrong username or password!"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:147
+msgid "Account isn't active. Check your mailbox for activation link."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:177
+msgid "Login successful"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:212
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:213
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:215
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:216
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:217
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:252
+msgid "Wrong captcha"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:322
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:482
+msgid "Some required data are missing."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:499
+msgid "Old password isn't correct"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:540
+msgid "Please choose a payment method"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:548
+msgid "Thank you for submitting your property information"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:764 includes/Users/Users_Ajax.php:885
+msgid "Already payed"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:780
+#, php-format
+msgid "%s listing, Estate ID: %d"
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:789
+msgid ""
+"Thank you for your payment. Your transaction has been completed. Your "
+"property is waiting for approval."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:792
+msgid ""
+"Thank you for your payment. Your transaction has been completed. Your "
+"property is published."
+msgstr ""
+
+#: includes/Users/Users_Ajax.php:945
+msgid "Thank you for your payment. Your transaction has been completed."
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:26
+msgid "Display facebook page"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:28
+msgid "MH Facebook"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:64
+#: includes/Widgets/Facebook_Widget.php:193
+#: includes/Widgets/Social_Icons_Widget.php:66
+#: includes/Widgets/Social_Icons_Widget.php:152
+#: includes/Widgets/Twitter_Widget.php:55
+#: includes/Widgets/Twitter_Widget.php:123
+#: includes/Widgets/Twitter_Widget.php:196
+msgid "MyHome - Widgets"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:65
+#: includes/Widgets/Facebook_Widget.php:194
+msgid "Facebook widget"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:136
+#: includes/Widgets/Infobox_Widget.php:121
+#: includes/Widgets/Social_Icons_Widget.php:118
+#: includes/Widgets/Twitter_Widget.php:129
+msgid "Title:"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:140
+msgid "Page (url):"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:144
+msgid "Widget height:"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:149
+msgid "Use small header"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:153
+msgid "Hide cover photo"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:157
+msgid "Display faces of friend"
+msgstr ""
+
+#: includes/Widgets/Facebook_Widget.php:161
+msgid "Display timeline"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:23
+msgid "Display image and text"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:25
+msgid "MH Infobox"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:125
+msgid "Image url ( jpg / png / gif ):"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:129
+msgid "Link ( url: ):"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:133
+msgid "Text:"
+msgstr ""
+
+#: includes/Widgets/Infobox_Widget.php:141
+msgid "Button text:"
+msgstr ""
+
+#: includes/Widgets/Social_Icons_Widget.php:40
+msgid "Display social icons"
+msgstr ""
+
+#: includes/Widgets/Social_Icons_Widget.php:42
+msgid "MH Social Icons"
+msgstr ""
+
+#: includes/Widgets/Social_Icons_Widget.php:67
+#: includes/Widgets/Social_Icons_Widget.php:153
+msgid "Icons widget"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:26
+msgid "Display latest tweets"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:28
+msgid "MH Twitter"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:56
+#: includes/Widgets/Twitter_Widget.php:124
+#: includes/Widgets/Twitter_Widget.php:197
+msgid "Twitter widget"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:133
+msgid "Twitter Handle:"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:137
+msgid "Consumer Key (API Key):"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:141
+msgid "\tConsumer Secret (API Secret):"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:145
+msgid "Access Token:"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:149
+msgid "Access Token Secret:"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:153
+msgid "Cache duration (minutes):"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:157
+msgid "Number of displayed tweets"
+msgstr ""
+
+#: includes/Widgets/Twitter_Widget.php:162
+msgid "Show retweets"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MyHome Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://myhometheme.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin is a part of MyHome Theme. The minimum PHP version required is "
+"5.6.0."
+msgstr ""
